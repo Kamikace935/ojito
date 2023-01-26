@@ -28,8 +28,7 @@ public class TestInetAddress {
 	          System.out.println("\t\t"+direcciones[i].toString());
 				
 		System.out.println("========================================================");
-				
-	  } catch (UnknownHostException e1) {e1.printStackTrace();}
+		//Pablo eres mi hijo
 	}// main
 	
 	private static void pruebaMetodos(InetAddress dir) {		
